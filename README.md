@@ -1,5 +1,5 @@
 # Mert
-package day13_StringClass;
+
 
 import java.util.Scanner;
 
